@@ -1,10 +1,10 @@
-#Simple GUI Calculator
+# Simple GUI Calculator
 
 A simple GUI developed to show the working of a calculator using Python, PyQt4 module and QT4 designer software.
 
 
 
-##Installation
+## Installation
 
 If none of the required is installed, here are the list of commands:
 
@@ -19,15 +19,15 @@ QT4 Designer
 
 
 
-##Testing
+## Testing
 
 - Fork the repository
 - Clone the repository
 
-- To run the project, on the linux command line, type:
+To run the project, on the linux command line, type:
 > python Calculator.py
 
 
-##Screenshot
+## Screenshot
 
 ![calculator](https://user-images.githubusercontent.com/28625986/40050495-4844be86-5855-11e8-98e5-369a65b6e587.png)
